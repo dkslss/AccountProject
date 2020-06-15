@@ -32,6 +32,11 @@
 ### 내역추가
 <img src = "image/editor.jpg">
 
+
+
+
+
+
 ### 상세내역
 <img src = "image/detail.png">
 
